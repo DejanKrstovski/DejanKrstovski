@@ -19,8 +19,8 @@ Currently, I'm focused on learning **Java** and **JavaFX**, building a strong fo
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)  
-- 🧑‍💻 [GitHub](https://github.com/YOUR-USERNAME-HERE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/DejanKrstovski/)  
+- 🧑‍💻 [GitHub](https://github.com/DejanKrstovski)
 
 ---
 
