@@ -1,28 +1,31 @@
-# 👋 Hi, I'm Dejan!
+# Dejan Krstovski | Aspiring Software Engineer
+*Driven by logic, architecture, and building robust applications.*
 
-I'm on an exciting journey to become a **Software Developer**.  
-Currently, I'm focused on learning **Java** and **JavaFX**, building a strong foundation in object-oriented programming and desktop application development.
+I am a prospective **Software Developer** with a strong foundation in object-oriented programming, data structures, and algorithms. My primary technical focus is the **Java** ecosystem, where I am committed to writing clean, maintainable, and efficient code.
 
----
-
-### 🌱 What I'm Learning
-- 📚 **Java** – mastering core concepts like OOP, data structures, and algorithms.
-- 🎨 **JavaFX** – creating intuitive and responsive desktop user interfaces.
+Currently, I am expanding my expertise into backend architectures and responsive UI development to build end-to-end software solutions.
 
 ---
 
-### 💡 Goals
-- 🚀 Build and share projects to apply what I’m learning.
-- 🔍 Explore backend technologies and software architecture.
-- 🤝 Connect with other developers and grow together.
+### 🛠️ Technical Focus & Expertise
+- **Core Engineering:** Java (OOP principles, Data Structures, Algorithms)
+- **Application Development:** JavaFX for desktop GUI architecture and responsive design
+- **Continuous Learning:** Exploring high-level system design and backend technologies
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/DejanKrstovski/)  
+### 🎯 Career Objective & Goals
+My immediate objective is to join a forward-thinking engineering team where I can contribute to production-grade applications while accelerating my technical growth. I am highly proactive about:
+- **Building & Architecting:** Translating complex logic into practical, scalable code.
+- **Backend Systems:** Expanding my capability into server-side engineering and API design.
+- **Collaborative Engineering:** Working within agile teams, participating in code reviews, and adopting industry best practices.
+
+---
+
+### 📫 Let's Connect
+I am currently open to Junior Developer roles and collaborative opportunities. If you are building an engineering team that values continuous learning and solid architectural fundamentals, let's talk.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/DejanKrstovski/)
 - 🧑‍💻 [GitHub](https://github.com/DejanKrstovski)
 
----
-
-Thanks for visiting my profile! 😊  
-Stay tuned for updates and feel free to reach out or collaborate!
+*Thanks for visiting my profile. Feel free to explore my repositories or reach out directly!*
