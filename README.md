@@ -47,4 +47,4 @@ I am a **Junior Software Developer** focused on backend systems, core Java progr
 ### 📬 Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/dejan-krstovski](https://linkedin.com/in/dejan-krstovski)
-- **Email**: [contact@dejan-krstovski.dev](mailto:contact@dejan-krstovski.dev)
+- **Email**: [dejan@krstovski.dev](mailto:dejan@krstovski.dev)
